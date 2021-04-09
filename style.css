@@ -55,8 +55,10 @@ textarea {
 button {
   background-color: var(--primary);
   border: none;
-  margin: 1rem 22.5rem;
+  margin: 1rem 34.5rem;
   padding: 1rem 1.5rem;
+  display: flex;
+  align-items: center;
   font-family: "Source Sans Pro", sans-serif;
   font-size: large;
 }
